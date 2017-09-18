@@ -1,0 +1,9 @@
+C:\Users\pap\Documents\Visual Studio 2008\Projects\gcode2msp\gcode2msp\bin\Release\gcode2msp.exe.config
+C:\Users\pap\Documents\Visual Studio 2008\Projects\gcode2msp\gcode2msp\bin\Release\gcode2msp.exe
+C:\Users\pap\Documents\Visual Studio 2008\Projects\gcode2msp\gcode2msp\bin\Release\gcode2msp.pdb
+C:\Users\pap\Documents\Visual Studio 2008\Projects\gcode2msp\gcode2msp\obj\Release\ResolveAssemblyReference.cache
+C:\Users\pap\Documents\Visual Studio 2008\Projects\gcode2msp\gcode2msp\obj\Release\gcode2msp.Form1.resources
+C:\Users\pap\Documents\Visual Studio 2008\Projects\gcode2msp\gcode2msp\obj\Release\gcode2msp.Properties.Resources.resources
+C:\Users\pap\Documents\Visual Studio 2008\Projects\gcode2msp\gcode2msp\obj\Release\gcode2msp.csproj.GenerateResource.Cache
+C:\Users\pap\Documents\Visual Studio 2008\Projects\gcode2msp\gcode2msp\obj\Release\gcode2msp.exe
+C:\Users\pap\Documents\Visual Studio 2008\Projects\gcode2msp\gcode2msp\obj\Release\gcode2msp.pdb
